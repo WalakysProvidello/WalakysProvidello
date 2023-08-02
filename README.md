@@ -8,8 +8,7 @@
 - [Portfólio](https://portifolio-2023-seven.vercel.app) 🌐
 - [Projetos no GitHub](https://github.com/WalakysProvidello) 🚀
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walakysprovidello&show_icons=true&locale=en&layout=compact" alt="walakysprovidello" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walakysprovidello&show_icons=true&locale=en&layout=compact" alt="walakysprovidello"></p>
 
 ## Objetivo 🚀
 Busco oportunidades na área de tecnologia como Analista de Dados ou Analista de Sistemas.
