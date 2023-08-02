@@ -11,10 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walakysprovidello&show_icons=true&locale=en&layout=compact" alt="walakysprovidello" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walakysprovidello&show_icons=true&locale=en" alt="walakysprovidello" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walakysprovidello&" alt="walakysprovidello" /></p>
-
 ## Objetivo 🚀
 Busco oportunidades na área de tecnologia como Analista de Dados ou Analista de Sistemas.
 
