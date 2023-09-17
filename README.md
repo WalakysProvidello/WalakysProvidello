@@ -1,3 +1,5 @@
+![Alt Text](https://pin.it/34Z7fB0)
+
 # Walakys Augusto Pereira Providello 👨‍💻
 
 ## Contatos 📞
