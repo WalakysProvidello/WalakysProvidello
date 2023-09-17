@@ -22,5 +22,18 @@
 - **Análise de Dados e Dashboards:** Power BI 📊
 - **Metodologias Ágeis:** Scrum, Kanban, Trello 📈📋
 
-## Objetivo 🚀
-- Busco oportunidades na área de tecnologia como Analista de Dados ou Analista de Sistemas.
+## Experiência e Projetos Relevantes 🛠️
+- **Analista de Dados na Empresa XYZ (Desde Maio de 2021):** Responsável pela análise de dados em processos jurídicos, fornecimento de informações adicionais aos clientes e esclarecimento de dúvidas.
+
+- **Projetos em Destaque:**
+  - Desenvolvimento de um Sistema Bancário em Python.
+  - Criação de um Sistema de Reconhecimento Facial com Python.
+  - Aplicativo de Clima desenvolvido em Node.js.
+  - Aplicativo de Controle Financeiro Pessoal em C#.
+
+## Objetivo Profissional 🌟
+Estou em busca de oportunidades na área de tecnologia, com foco em cargos de Analista de Dados ou Analista de Sistemas. Meu objetivo é aplicar meu conhecimento e paixão pela programação para criar soluções eficientes e inovadoras, contribuindo para o crescimento das empresas e meu desenvolvimento profissional.
+
+## Entre em Contato 📬
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar por e-mail ou pelo LinkedIn.
+
