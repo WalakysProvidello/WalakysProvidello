@@ -16,17 +16,17 @@
 </p>
 
 ## Skills 🚀
-- **Linguagens de Programação:** Python, Java, Salesforce
+- **Linguagens de Programação:** Python, JavaScript, Php e MySql
 - **Web Development:** HTML, CSS, JavaScript
-- **Front-End Framework:** Angular
-- **Back-End:** C
+- **Front-End Framework:** React
+- **Back-End:** .Net C# 
 - **Armazenamento de Dados:** AWS Server e Nuvem ☁️
 - **Controle de Versão:** GitHub 🐙
 - **Análise de Dados e Dashboards:** Power BI 📊
 - **Metodologias Ágeis:** Scrum, Kanban, Trello 📈📋
 
 ## Experiência e Projetos Relevantes 🛠️
-- **Analista de Dados na Empresa XYZ (Desde Maio de 2021):** Responsável pela análise de dados em processos jurídicos, fornecimento de informações adicionais aos clientes e esclarecimento de dúvidas.
+- **Analista de Dados na Empresa (Desde Maio de 2021):** Responsável pela análise de dados em processos jurídicos, fornecimento de informações adicionais aos clientes e esclarecimento de dúvidas.
 
 - **Projetos em Destaque:**
   - Desenvolvimento de um Sistema Bancário em Python.
