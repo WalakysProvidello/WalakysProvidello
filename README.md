@@ -1,3 +1,4 @@
+![image](https://github.com/WalakysProvidello/WalakysProvidello/assets/104736938/9a051a04-2c25-4b14-a71f-589b338c6fb1)
 
 
 # Walakys Augusto Pereira Providello 👨‍💻
