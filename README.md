@@ -1,4 +1,5 @@
-![Alt Text]([https://pin.it/34Z7fB0](https://github.com/WalakysProvidello/WalakysProvidello/blob/4e04fcc139fd0ccb34e0165ecfa273e8895f9782/642cd381c872075ae75a228284b262de.mp4))
+![Texto alternativo](https://github.com/WalakysProvidello/WalakysProvidello/blob/4e04fcc139fd0ccb34e0165ecfa273e8895f9782/642cd381c872075ae75a228284b262de.mp4))
+
 
 # Walakys Augusto Pereira Providello 👨‍💻
 
