@@ -16,10 +16,10 @@
 </p>
 
 ## Skills 🚀
-- **Linguagens de Programação:** Python, JavaScript, Php e MySql
-- **Web Development:** HTML, CSS, JavaScript
-- **Front-End Framework:** React
-- **Back-End:** .Net C# 
+- **Linguagens de Programação:** Php,MySql e C#
+- **Web Development:** HTML5,CSS3,JavaScript
+- **Front-End Framework:** Angular 
+- **Back-End:** .Net, NodeJs e Python
 - **Armazenamento de Dados:** AWS Server e Nuvem ☁️
 - **Controle de Versão:** GitHub 🐙
 - **Análise de Dados e Dashboards:** Power BI 📊
