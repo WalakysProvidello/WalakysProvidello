@@ -10,8 +10,6 @@ Eu sou Walakys Augusto, um estudante de Ciência da Computação cheio de entusi
 Estou me especializando em tecnologias como .NET e JavaScript, explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://git.io/streak-stats" target="_blank" style="flex: 1;">
-        <img src="https://streak-stats.demolab.com?user=WalakysProvidello&theme=gruvbox-duo&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="GitHub Streak" />
     </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walakysprovidello&show_icons=true&locale=en&layout=compact" alt="walakysprovidello" style="flex: 1;">
 </div>
