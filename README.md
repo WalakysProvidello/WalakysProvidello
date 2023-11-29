@@ -20,8 +20,6 @@ Estou me especializando em tecnologias como .NET e JavaScript, explorando as nua
 - **Telefone Celular:** (14) 99886-6072 📱
 - **E-mail:** walakys.providello@gmail.com.br 📧
 - [**Perfil LinkedIn**](https://www.linkedin.com/in/walakys-providello-291624208/) 👔
-- [**Projetos no GitHub**](https://github.com/WalakysProvidello) 🚀
-
 
 ## Skills 🚀
 
