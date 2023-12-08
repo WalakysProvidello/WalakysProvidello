@@ -21,24 +21,25 @@ Estou me especializando em tecnologias como .NET e JavaScript, explorando as nua
 - **E-mail:** walakys.providello@gmail.com.br 📧
 - [**Perfil LinkedIn**](https://www.linkedin.com/in/walakys-providello-291624208/) 👔
 
-## Skills 🚀
 
-- **Front-End:** HTML5,CSS3,JavaScript e  Angular 
-- **Back-End:** .Net, NodeJs e Python
-- **Armazenamento de Dados:** AWS Server e Nuvem ☁️
-- **Controle de Versão:** GitHub 🐙
-- **Análise de Dados e Dashboards:** Power BI 📊
-- **Metodologias Ágeis:** Scrum, Kanban, Trello 📈📋
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 
 
 ## Projetos em Destaque  🛠️
-  - Desenvolvimento de um Sistema Bancário em Python.
-  - Criação de um Sistema de Reconhecimento Facial com Python.
-  - Aplicativo de Clima desenvolvido em Node.js.
-  - Aplicativo de Controle Financeiro Pessoal em C#.
+-GeoMetrica_Py Public | Verificador-de-Ano-Bissexto
+-Verificador_String   | Idade_Verificador
 
 ## Objetivo Profissional 🌟
-Estou em busca de oportunidades na área de tecnologia, com foco em cargos de Analista de Dados ou Analista de Sistemas. Meu objetivo é aplicar meu conhecimento e paixão pela programação para criar soluções eficientes e inovadoras, contribuindo para o crescimento das empresas e meu desenvolvimento profissional.
+Busco uma carreira com engenheiro de Sowftare tendo meu objetivo é continuar aprimorando minhas habilidades técnicas, contribuir para projetos desafiadores e impulsionar a inovação no desenvolvimento de 
+sistemas e aplicativos de alta qualidade..
 
 ## Entre em Contato 📬
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar por e-mail ou pelo LinkedIn.
