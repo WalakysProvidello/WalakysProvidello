@@ -46,3 +46,11 @@ sistemas e aplicativos de alta qualidade..
 ## Entre em Contato 📬
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar por e-mail ou pelo LinkedIn.
 
+##
+<p align="center">
+<a href="https://github.com/WalakysProvidello">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WalakysProvidello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WalakysProvidello&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
