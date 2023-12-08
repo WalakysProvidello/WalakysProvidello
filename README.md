@@ -5,15 +5,7 @@
 
 
 ## Devoloper in proguess 👨‍💻
-Eu sou Walakys Augusto, um estudante de Ciência da Computação cheio de entusiasmo e criatividade. Atualmente, estou na jornada de adquirir conhecimento e habilidades em programação e tecnologia. A paixão por transformar a vida das pessoas por meio do poder da programação é o que me motiva todos os dias.
-
-Estou me especializando em tecnologias como .NET e JavaScript, explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walakysprovidello&show_icons=true&locale=en&layout=compact" alt="walakysprovidello" style="flex: 1;">
-</div>
-
+Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação cheio de entusiasmo e criatividade. Atualmente, estou na jornada de adquirir conhecimento e habilidades em programação e tecnologia. A paixão por transformar a vida das pessoas por meio do poder da programação é o que me motiva todos os dias. Hoje estou me especializando em tecnologias python e Java como  explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
 
 ## Contatos 📞
 - **Endereço:** Jd Redentor – Bauru 🏠
@@ -34,10 +26,7 @@ Estou me especializando em tecnologias como .NET e JavaScript, explorando as nua
 
 
 ## Projetos em Destaque  🛠️
--GeoMetrica_Py Public 
--Verificador-de-Ano-Bissexto
--Verificador_String
--Idade_Verificador
+GeoMetrica_Py Public,Verificador-de-Ano-Bissexto,Verificador_String,Idade_Verificador.
 
 ## Objetivo Profissional 🌟
 Busco uma carreira com engenheiro de Sowftare tendo meu objetivo é continuar aprimorando minhas habilidades técnicas, contribuir para projetos desafiadores e impulsionar a inovação no desenvolvimento de 
