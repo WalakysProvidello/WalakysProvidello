@@ -4,8 +4,8 @@
    ![image](https://github.com/WalakysProvidello/WalakysProvidello/blob/b4ddf6eb8b87d57e874900748382f6c140a0d572/ezgif.com-gif-maker.gif)
 
 
-## Devoloper in proguess 👨‍💻
-Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação cheio de entusiasmo e criatividade. Atualmente, estou na jornada de adquirir conhecimento e habilidades em programação e tecnologia. A paixão por transformar a vida das pessoas por meio do poder da programação é o que me motiva todos os dias. Hoje estou me especializando em tecnologias python e Java como  explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
+## Data Analyst in proguess 👨‍💻
+Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação cheio de entusiasmo e criatividade. Atualmente, estou na jornada de adquirir conhecimento e habilidades em programação e tecnologia. A paixão por transformar a vida das pessoas por meio do poder da programação é o que me motiva todos os dias. Hoje estou me especializando em tecnologias python,SQL,Power BI, Power Automate e Machine Learning como  explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
 
 ## Contatos 📞
 - **Endereço:** Jd Redentor – Bauru 🏠
