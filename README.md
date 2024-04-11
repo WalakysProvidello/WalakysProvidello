@@ -20,7 +20,7 @@ Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação che
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" title = "POWERBI"/></code>
+
 
 ## Projetos em Destaque  🛠️
 GeoMetrica_Py Public,Verificador-de-Ano-Bissexto,Verificador_String,Idade_Verificador.
