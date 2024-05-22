@@ -1,11 +1,11 @@
-##  Hello World, I'm Walakys Augusto 👋
+ ## Repository with my Data Science projects:, I'm Walakys Augusto 👋
 
 
    ![image](https://github.com/WalakysProvidello/WalakysProvidello/blob/b4ddf6eb8b87d57e874900748382f6c140a0d572/ezgif.com-gif-maker.gif)
 
 
 ## Data Analyst in proguess 👨‍💻
-Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação cheio de entusiasmo e criatividade. Atualmente, estou na jornada de adquirir conhecimento e habilidades em programação e tecnologia. A paixão por transformar a vida das pessoas por meio do poder da programação é o que me motiva todos os dias. Hoje estou me especializando em tecnologias python,SQL,Power BI, Power Automate e Machine Learning como  explorando as nuances dessas linguagens para construir soluções inovadoras. Além disso, estou ansioso para aprender e crescer na minha jornada como estudante de Ciência da Computação 🎓.
+I am currently an undergraduate in Computer Science at Unisagrado, focusing on Data Science, Econometrics, and Consumer Behavior. I am seeking employment as a data scientist. 🎓
 
 ## Contatos 📞
 - **Endereço:** Jd Redentor – Bauru 🏠
@@ -14,20 +14,26 @@ Ola mundo me chamo Walakys Augusto, um estudante de Ciência da Computação che
 - [**Perfil LinkedIn**](https://www.linkedin.com/in/walakys-providello-291624208/) 👔
 
 
-### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+## Experience with:
 
+- **Machine Learning**: Development of predictive models for classification, regression, clustering, and time series
+- **LLM**: Creation of AI Agents, prompt engineering, integration of generative AI with documents
+- **Business Intelligence**: Building dashboards and KPIs;
+- **Data Governance**: Creation of Data Quality rules for databases;
+- **Analytics**: Data extraction, cleaning, exploratory analysis, and modeling;
+- **RPA**: Development of bots for process automation;
+- **Database**: Database queries;
+- **Exploratory Spatial Data Analysis + Spatial Econometrics**: Development of tools and analyses using spatial data
+- **Others**: Agile Methodology, OKR
 
-## Projetos em Destaque  🛠️
-GeoMetrica_Py Public,Verificador-de-Ano-Bissexto,Verificador_String,Idade_Verificador.
+## Tools:
 
-## Objetivo Profissional 🌟
-Busco uma carreira com engenheiro de Sowftare tendo meu objetivo é continuar aprimorando minhas habilidades técnicas, contribuir para projetos desafiadores e impulsionar a inovação no desenvolvimento de 
-sistemas e aplicativos de alta qualidade..
+- **Programming Languages**: Python
+- **Statistical and Data Mining Software**: R, Excel, Orange3, Stata
+- **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
+- **Databases**: MySQL, MongoDB, SQLite
+- **Cloud Computing**: AWS, GCP
+
 
 ## Entre em Contato 📬
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar por e-mail ou pelo LinkedIn.
