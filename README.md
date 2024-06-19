@@ -28,10 +28,10 @@ I am currently an undergraduate in Computer Science at Unisagrado, focusing on D
 
 ## Tools:
 
-- **Programming Languages**: Python
-- **Statistical and Data Mining Software**: R, Excel, Orange3, Stata
-- **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
-- **Databases**: MySQL, MongoDB, SQLite
+- **Programming Languages**: Python Php
+- **Statistical and Data Mining Software**: R, Excel, Python , Google Analytcs
+- **Data Visualization Software**: AWS Power BI, Tableau
+- **Databases**: MySQL,SQL SERVER,  
 - **Cloud Computing**: AWS, GCP
 
 
