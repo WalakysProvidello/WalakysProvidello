@@ -2,11 +2,11 @@
    ![image](https://github.com/WalakysProvidello/WalakysProvidello/blob/b4ddf6eb8b87d57e874900748382f6c140a0d572/ezgif.com-gif-maker.gif)
 
 
-## Data Analyst in proguess 👨‍💻
-I am currently an undergraduate in Computer Science at Unisagrado, focusing on Data Science, Econometrics, and Consumer Behavior. I am seeking employment as a data scientist. 🎓
+## Cyber Security Analyst in proguess 👨‍💻
+I am currently an graduate in Computer Science at Unisagrado, focusing on Cyber Security. 🎓
 
 ## Contatos 📞
-- **Endereço:** Jd Redentor – Bauru 🏠
+- **Endereço:** São Paulo 🏠
 - **Telefone Celular:** (14) 99886-6072 📱
 - **E-mail:** walakys.providello@gmail.com.br 📧
 - [**Perfil LinkedIn**](https://www.linkedin.com/in/walakys-providello-291624208/) 👔
@@ -14,24 +14,26 @@ I am currently an undergraduate in Computer Science at Unisagrado, focusing on D
 
 ## Experience with:
 
-- **Machine Learning**: Development of predictive models for classification, regression, clustering, and time series
-- **LLM**: Creation of AI Agents, prompt engineering, integration of generative AI with documents
-- **Business Intelligence**: Building dashboards and KPIs;
-- **Data Governance**: Creation of Data Quality rules for databases;
-- **Analytics**: Data extraction, cleaning, exploratory analysis, and modeling;
-- **RPA**: Development of bots for process automation;
-- **Database**: Database queries;
-- **Exploratory Spatial Data Analysis + Spatial Econometrics**: Development of tools and analyses using spatial data
-- **Others**: Agile Methodology, OKR
+- **Cybersecurity**: Implementation of security policies, risk assessment, and incident response  
+- **Network Security**: Administration of firewalls, IDS/IPS, VPNs, and network monitoring  
+- **Penetration Testing & Vulnerability Assessment**: Conducting security tests and identifying vulnerabilities  
+- **SIEM & Log Analysis**: Event correlation, security monitoring, and incident handling  
+- **Threat Intelligence**: Identification and mitigation of cyber threats  
+- **Cloud Security**: Security best practices for AWS and GCP environments  
+- **Data Protection & Compliance**: Implementation of security standards and data privacy regulations (LGPD, GDPR, ISO 27001)  
+- **Automation & Scripting**: Development of scripts for security automation and log analysis  
+- **Identity & Access Management (IAM)**: Role-based access control (RBAC) and multi-factor authentication (MFA)  
+- **Others**: Agile Methodology, OKR  
 
 ## Tools:
 
-- **Programming Languages**: Python Php
-- **Statistical and Data Mining Software**: R, Excel, Python , Google Analytcs
-- **Data Visualization Software**: AWS Power BI, Tableau
-- **Databases**: MySQL,SQL SERVER,  
-- **Cloud Computing**: AWS, GCP
-
+- **Programming & Scripting**: Python, Bash, PowerShell  
+- **Security Tools**: Wireshark, Metasploit, Burp Suite, Nmap, Nessus, OpenVAS  
+- **SIEM & Monitoring**: Splunk, ELK Stack, Wazuh  
+- **Cloud Security**: AWS Security Hub, Google Security Command Center  
+- **Penetration Testing**: Kali Linux, Parrot OS  
+- **Networking & Firewalls**: Cisco, Fortinet, Palo Alto Networks  
+- **Compliance & Governance**: ISO 27001, NIST, CIS Controls  
 
 ## Entre em Contato 📬
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar por e-mail ou pelo LinkedIn.
